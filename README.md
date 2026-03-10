@@ -107,4 +107,3 @@ This project uses the following tools:
 
 ---
 
-## Repository Structure
